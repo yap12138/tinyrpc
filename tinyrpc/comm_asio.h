@@ -21,6 +21,8 @@
 #undef LOGGING_COMPONENT
 #define LOGGING_COMPONENT "comm_asio"
 
+using namespace boost;
+
 namespace std {
     template<>
     class hash<asio::ip::tcp::endpoint> {

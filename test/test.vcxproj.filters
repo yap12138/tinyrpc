@@ -65,5 +65,8 @@
     <ClInclude Include="..\tinyrpc\unique_id.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\tinyrpc\asio\asio\include\asio.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
