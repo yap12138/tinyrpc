@@ -156,7 +156,6 @@
     <ClCompile Include="test.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\tinyrpc\asio\asio\include\asio.hpp" />
     <ClInclude Include="..\tinyrpc\comm_asio.h" />
     <ClInclude Include="..\tinyrpc\comm_zmq.h" />
     <ClInclude Include="..\tinyrpc\concurrent_queue.h" />
